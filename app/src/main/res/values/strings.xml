@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">skip</string>
+    <string name="token">api_token</string>
+</resources>
